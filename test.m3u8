@@ -1,4 +1,4 @@
-=#EXTM3U
+#EXTM3U
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="cc",LANGUAGE="en",NAME="English",AUTOSELECT=YES,INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:BANDWIDTH=4542800,AVERAGE-BANDWIDTH=4296000,RESOLUTION=1920x1080,CODECS="mp4a.40.2, avc1.640028"
 https://west.manifest.na.theplatform.com/m/HNK2IC/_T9WUvv4l_ZM,Npi7PtBeN2kG,Cw8rdlOU1NuN,k7wn4UmJhWJ8,uVhWU6JGvxqV,VRgWyKp4Qx1V,Z2PlO9owgnNK/1.m3u8?sid=25b643e4-3c7f-4a6a-b392-98d8a099c0aa&policy=133785353&date=1538098112910&ip=216.4.176.41&schema=1.1&cid=7e68f1ee-69e9-4d8a-a28b-1546b860c7af&host=nbchls-prod.nbcuni.com&meta=false&manifest=M3U&switch=HLSOriginSecure&am_sdkv=poc&nw=169843&am_extmp=default&tracking=true&uuid=df126e83-b53c-41c0-8037-d392015a5b52&am_appv=poc&mode=on-demand&uoo=1&sfid=1963559&am_buildv=poc&am_abvrtd=null&_fw_ae=&csid=nbc_ott_viziotv_app_ondemand&am_cpsv=2.7.43-1&metr=1031&prof=nbcu_viziotv_svp_https&afid=136164654&am_crmid=null&am_playerv=poc&did=&am_stitcherv=poc&sig=1b0a22070fd16418e8f25ce0e2a775277c38769c1d165b02c93d0eacfda78538
